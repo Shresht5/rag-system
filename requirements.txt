@@ -1,0 +1,7 @@
+langchain-text-splitters
+langchain_huggingface
+langchain
+python-dotenv 
+numpy
+sentence-transformers
+chromadb

@@ -1,0 +1,5 @@
+/input
+/chroma_db
+/venv
+.env
+*/__pycache__
