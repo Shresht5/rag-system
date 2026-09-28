@@ -1,6 +1,8 @@
 python -m venv venv
 ./venv/Scripts/Activate.ps1
 
+Dataset:https://huggingface.co/datasets/nvidia/TechQA-RAG-Eval/tree/main
+
 python main.py
 
 questions[
